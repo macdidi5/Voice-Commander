@@ -18,7 +18,8 @@ Android Things TTS（Text-To-Speech、文字轉語音）與 STT （Speech-To-Tex
 * [單色顯示器、0.96吋、128x64](https://www.adafruit.com/products/326)
 * 麥克風、喇叭、USB外接耳機與麥克風音效卡
 
-    
+    ![Alt at](https://github.com/macdidi5/Voice-Commander/blob/master/images/IMG_1941.JPG)
+    ![Alt at](https://github.com/macdidi5/Voice-Commander/blob/master/images/IMG_1942.JPG)
 
 * [樂高海灘小屋](http://shop.lego.com/en-US/Beach-Hut-31035)
 * 個人電腦，PC或Mac
