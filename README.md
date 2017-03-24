@@ -45,3 +45,9 @@ Android Things TTS（Text-To-Speech、文字轉語音）與 STT （Speech-To-Tex
 
 6. 執行應用程式。
 7. 第一次啟動應用程式，在Raspberry Pi的輸出畫面選擇同意語音辨識授權。**這是目前的作法，未來Android Things支援語音轉文字以後，就不用這樣作。後續執行應用程式不需要再連接USB滑鼠與螢幕。**
+
+## 參考資訊
+
+[Android Things Tutorial 系列專欄](https://github.com/macdidi5/Android-Things-Tutorial)
+
+[Things Commander](https://github.com/macdidi5/ThingsCommander)
